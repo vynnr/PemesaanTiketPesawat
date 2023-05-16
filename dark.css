@@ -1,0 +1,26 @@
+/* style untuk background */
+body {
+	background-color: #333;
+	color: #fff;
+}
+
+/* style untuk elemen form */
+form {
+	background-color: #444;
+	padding: 20px;
+	border-radius: 5px;
+}
+
+label {
+	color: #ccc;
+}
+
+input[type="text"], input[type="email"], input[type="submit"] {
+	background-color: #555;
+	border: 1px solid #777;
+	color: #ccc;
+}
+
+input[type="submit"]:hover {
+	background-color: #666;
+}
